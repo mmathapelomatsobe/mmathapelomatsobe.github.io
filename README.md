@@ -19,3 +19,5 @@ To build my skills, I enrolled in the IBM Data Science Professional Certificate 
 I also enrolled in a Data Science programme with ALX Africa, which further strengthened my skills and confirmed my passion. During this journey, I embraced my ADHD and developed strategies to manage it effectively. This self-awareness has significantly improved my focus, productivity, and confidence.
 Additionally, completing the programme alongside my sister taught me the importance of teamwork and support systems. I now understand that success is not achieved in isolation—collaboration and support are essential.
 Today, I am confident in my abilities as a data science professional. I am passionate about learning, solving problems, and contributing meaningfully to a team. I believe that my journey has built resilience, adaptability, and determination, and I am ready to bring these strengths into my career.
+
+# BSc Statistics and Mathematics projects
