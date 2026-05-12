@@ -1,6 +1,6 @@
 # Mmathapelo Matsobe
 
-                                                                    ![images](20251104_101219.jpg)
+                                                                  ![images](20251104_101219.jpg)
 
 ## About me
 I am a BSc graduate in Statistics and Mathematics from North-West University. Although it took me longer than expected to complete my degree, I persevered and successfully graduated.
