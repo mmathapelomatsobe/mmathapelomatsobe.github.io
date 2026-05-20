@@ -2,7 +2,7 @@
 
 <div align = "center" style = "font-size: 80%; text-align: center; margin: auto;">
   <img 
-    src = "https://raw.githubusercontent.com/mmathapelomatsobe/anaconda_images/main/images/20251104_101219.jpg"
+    src = "[https://raw.githubusercontent.com/mmathapelomatsobe/anaconda_images/main/images/20251104_101219.jpg](https://github.com/mmathapelomatsobe/mmathapelomatsobe.github.io/blob/main/images/20251104_101219.jpg)"
     style = "display: block; margin-left: auto; margin-right: auto;"
     alt = "Image"
   />
