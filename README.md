@@ -1,6 +1,12 @@
 # Mmathapelo Matsobe
 
-                                                  ![images](20251104_101219.jpg)
+<div align = "center" style = "font-size: 80%; text-align: center; margin: auto;">
+  <img 
+    src = "https://raw.githubusercontent.com/mmathapelomatsobe/anaconda_images/main/images/20251104_101219.jpg"
+    style = "display: block; margin-left: auto; margin-right: auto;"
+    alt = "Image"
+  />
+</div>
 
 ## About me
 I am a BSc graduate in Statistics and Mathematics from North-West University. Although it took me longer than expected to complete my degree, I persevered and successfully graduated.
