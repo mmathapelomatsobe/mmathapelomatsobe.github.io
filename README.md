@@ -1,6 +1,6 @@
 # Mmathapelo Matsobe
 
-<div align = "center" style = "font-size: 20%; text-align: center; margin: 0 auto;">
+<div align = "center" style = "font-size: 5%; text-align: center; margin: 0 auto;">
   <img 
     src = "images/20251104_101219.jpg"
     style = "display: block; margin-left: auto; margin-right: auto;"
